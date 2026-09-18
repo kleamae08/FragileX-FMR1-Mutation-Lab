@@ -1,0 +1,89 @@
+########################################
+# Program: needle
+# Rundate: Wed 16 Sep 2026 01:29:43
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79781963/inputs/dataset_1b4f6377-fbb1-4f89-a19c-ff2bc391ae19.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79781963/inputs/dataset_88d03c5b-d551-4ee0-b81f-35845118b386.dat
+#    -outfile /jetstream2/scratch/main/jobs/79781963/outputs/dataset_35ee131b-8fca-4674-96d8-4375d2d13101.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 pair
+#    -auto
+# Align_format: pair
+# Report_file: /jetstream2/scratch/main/jobs/79781963/outputs/dataset_35ee131b-8fca-4674-96d8-4375d2d13101.dat
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 262-2160_1
+# 2: 262-2160_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 632
+# Identity:     631/632 (99.8%)
+# Similarity:   631/632 (99.8%)
+# Gaps:           0/632 ( 0.0%)
+# Score: 3296.0
+# 
+#
+#=======================================
+
+262-2160_1         1 MEELVVEVRGSNGAFYKAFVKDVHEDSITVAFENNWQPDRQIPFHDVRFP     50
+                     ||||||||||||||||||||||||||.|||||||||||||||||||||||
+262-2160_1         1 MEELVVEVRGSNGAFYKAFVKDVHED*ITVAFENNWQPDRQIPFHDVRFP     50
+
+262-2160_1        51 PPVGYNKDINESDEVEVYSRANEKEPCCWWLAKVRMIKGEFYVIEYAACD    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1        51 PPVGYNKDINESDEVEVYSRANEKEPCCWWLAKVRMIKGEFYVIEYAACD    100
+
+262-2160_1       101 ATYNEIVTIERLRSVNPNKPATKDTFHKIKLDVPEDLRQMCAKEAAHKDF    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       101 ATYNEIVTIERLRSVNPNKPATKDTFHKIKLDVPEDLRQMCAKEAAHKDF    150
+
+262-2160_1       151 KKAVGAFSVTYDPENYQLVILSINEVTSKRAHMLIDMHFRSLRTKLSLIM    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       151 KKAVGAFSVTYDPENYQLVILSINEVTSKRAHMLIDMHFRSLRTKLSLIM    200
+
+262-2160_1       201 RNEEASKQLESSRQLASRFHEQFIVREDLMGLAIGTHGANIQQARKVPGV    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       201 RNEEASKQLESSRQLASRFHEQFIVREDLMGLAIGTHGANIQQARKVPGV    250
+
+262-2160_1       251 TAIDLDEDTCTFHIYGEDQDAVKKARSFLEFAEDVIQVPRNLVGKVIGKN    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       251 TAIDLDEDTCTFHIYGEDQDAVKKARSFLEFAEDVIQVPRNLVGKVIGKN    300
+
+262-2160_1       301 GKLIQEIVDKSGVVRVRIEAENEKNVPQEEEIMPPNSLPSNNSRVGPNAP    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       301 GKLIQEIVDKSGVVRVRIEAENEKNVPQEEEIMPPNSLPSNNSRVGPNAP    350
+
+262-2160_1       351 EEKKHLDIKENSTHFSQPNSTKVQRVLVASSVVAGESQKPELKAWQGMVP    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       351 EEKKHLDIKENSTHFSQPNSTKVQRVLVASSVVAGESQKPELKAWQGMVP    400
+
+262-2160_1       401 FVFVGTKDSIANATVLLDYHLNYLKEVDQLRLERLQIDEQLRQIGASSRP    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       401 FVFVGTKDSIANATVLLDYHLNYLKEVDQLRLERLQIDEQLRQIGASSRP    450
+
+262-2160_1       451 PPNRTDKEKSYVTDDGQGMGRGSRPYRNRGHGRRGPGYTSGTNSEASNAS    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       451 PPNRTDKEKSYVTDDGQGMGRGSRPYRNRGHGRRGPGYTSGTNSEASNAS    500
+
+262-2160_1       501 ETESDHRDELSDWSLAPTEEERESFLRRGDGRRRGGGGRGQGGRGRGGGF    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       501 ETESDHRDELSDWSLAPTEEERESFLRRGDGRRRGGGGRGQGGRGRGGGF    550
+
+262-2160_1       551 KGNDDHSRTDNRPRNPREAKGRTTDGSLQIRVDCNNERSVHTKTLQNTSS    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+262-2160_1       551 KGNDDHSRTDNRPRNPREAKGRTTDGSLQIRVDCNNERSVHTKTLQNTSS    600
+
+262-2160_1       601 EGSRLRTGKDRNQKKEKPDSVDGQQPLVNGVP    632
+                     ||||||||||||||||||||||||||||||||
+262-2160_1       601 EGSRLRTGKDRNQKKEKPDSVDGQQPLVNGVP    632
+
+
+#---------------------------------------
+#---------------------------------------
